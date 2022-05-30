@@ -1,7 +1,8 @@
 
-<h1 align="center"><img src="https://media.giphy.com/media/1nctTrbXXmMHUVAaOo/giphy.gif" width="75%"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/1nctTrbXXmMHUVAaOo/giphy.gif" width="100%"></h1>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/RzqkoOmhuh86XsECvl/giphy.gif" width="5%">, I'm Nima!</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/RzqkoOmhuh86XsECvl/giphy.gif" width="50">, I'm Nima!</h1>
+
 <h3 align="center">I'm a passionate software engineer and enthusiast.</h3>
 
 
