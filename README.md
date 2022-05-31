@@ -20,7 +20,7 @@
 ## 🌐 Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nima-namjouyan-12987955)
-[![GitHub nimanamjouyan](https://img.shields.io/github/followers/nimanamjouyan?label=follow&style=social)](https://github.com/nimanamjouyan)
+[![GitHub ohmycaptainnemo](https://img.shields.io/github/followers/ohmycaptainnemo?label=follow&style=social)](https://github.com/ohmycaptainnemo)
 
 
 ## 💻Tech Stack
@@ -29,8 +29,8 @@
 
 # 📊GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=nimanamjouyan&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ohmycaptainnemo&icon=2&color=6)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api?username=nimanamjouyan&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimanamjouyan&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimanamjouyan&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ohmycaptainnemo&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ohmycaptainnemo&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmycaptainnemo&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
